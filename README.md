@@ -2,7 +2,7 @@
 
 # **Option 4 - Let's Go Color & Beyond Digits!**
 
-#*Group Members: Sebastian Charles, Sabeeq Karim, David Amaton*
+# *Group Members: Sebastian Charles, Sabeeq Karim, David Amaton*
 
 ### The following programs were ran using Python version 3.5
 ## Please COPY AND PASTE into anaconda prompt the following:
