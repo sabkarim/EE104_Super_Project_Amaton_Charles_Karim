@@ -1,28 +1,22 @@
-# EE104_Super_Project_Amaton_Charles_Karim
-# **EE_104-project-1**
+# **EE104 Project 4**
 
-## Access Google Sheet for Project:
-```
-https://docs.google.com/spreadsheets/d/1A244oU6kBScmfyDnN1Il7ojfzGIi3WEoOAdTkmwWnvc/edit#gid=0
-```
+# **Option 4 - Let's Go Color & Beyond Digits!**
 
-## Create a Virtual Environment:
-```
-py -m venv env
-.\env\Scripts\activate
-```
+#*Group Members: Sebastian Charles, Sabeeq Karim, David Amaton*
 
-## For Installing Libraries Used in Project:
+### The following programs were ran using Python version 3.5
+## Please COPY AND PASTE into anaconda prompt the following:
 ```
-pip install -r requirements.txt
-```
-## To Run Program:
-```
-py main.py
+pip install keras
+pip install tensorflow
+conda install h5py
+pip install Matplotlib
+pip install numpy
 ```
 
+## Remember to restart Spyder once installation is complete:
 
-## Instructions:
+## Instructions
 
 ### _Main Function:_
 - Give User option to either book a passenger for a flight or commence/continue boarding for a flight
