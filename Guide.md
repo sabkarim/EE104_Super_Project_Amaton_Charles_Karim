@@ -1,6 +1,6 @@
 # **User Guide**
 
-@@# *Part 4.1*@@
+# *Part 4.1*
 - For section 4.1 our team was able to implement a machine learning model to recognize 10 different imported color images using Keras
 - The images chosen came from the CIFAR-10 database
   - contains 60,000 32x32 different captures
