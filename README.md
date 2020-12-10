@@ -20,7 +20,7 @@ pip install numpy
 
 ### _To See How All Programs Work:_
 - Please check the guide:
-  - [a link](https://github.com/user/repo/blob/branch/other_file.md)
+  - [Guide Page](https://github.com/sabkarim/EE104_Super_Project_Amaton_Charles_Karim/blob/main/Guide.md)
 
 ## Resources:
 ```
