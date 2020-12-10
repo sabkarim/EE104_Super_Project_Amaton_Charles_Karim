@@ -1,6 +1,4 @@
-# **EE104 Project 4**
-
-# **Option 4 - Let's Go Color & Beyond Digits!**
+# **EE104 Project 4, Option 4 - Let's Go Color & Beyond Digits!**
 
 # *Group Members: Sebastian Charles, Sabeeq Karim, David Amaton*
 
