@@ -108,3 +108,6 @@ In [2]:
 - After the user selected an image the program would predict the category of the image and the probability of the predicted category being true
 - It is important to note that side profiles images and pictures of cats, dogs, &amp; deers usually resulted in wrong predictions
 - To obtain the code navigate to the "Option\_4\_Num\_2\_3\_4" folder and selected the file labeled "Option\_4\_Num\_3\_4.py"
+- Furthermore, as shown below our program was able to successfully run with a 100% prediction
+
+![ScreenShot](https://lh3.googleusercontent.com/nfWSNgLa_m0anadolPTnb86f4jlLN2tSDNi6LHTS50un3815Ru6KtqAc39ugRpGou1zBJOlzn0OTqH6juGOvByzly_Me2Qzpu5Ivk7tL5GKUjLB3Mn4e39gVLu47YCHQQ9xJBtzVweZaA3BRafiw8PXDLNPF-Q_3yCCyvexLmk-wZ1fguT6TkhqkVta2vORZfm_RvL0dv_IzhJqGdME5VC33mN0kwql0ZHDmtQcqoOvMwUwYj5LzYL6haGYHdqJ-z-w0pFgGJ1-gMmbbXjl2qVI5M4WO8Q6bFcCcYC61FB2--QGPxZD_gArKy_yGX5n5h_wLjpoeVT9WbsDmPHn7DfWWCu4hq1XaI2FaLDTrVmLUFsjni1geIPQ65XqkexLlFHwZpRaegIqQZ98IUsILczvj6idUvlapWLh1rmZHgt5zH9ltwovQ8yDPz0JvY19CoNrub4pmpSQBP5J1kbpNy65Pa3Q1HtwLO6eb4S9ScUiS2vtewvvrMTJGGu3ro75CvtvzqNRWZKKkNGR6Jfr1G_oAevnRQq5UVFp-Aco519ojBl6QIJd-E8NdFCNnFYtaZ_9_ZPJKTivafSGlSTa8cMlY_-JMNhS7H_-T5yXeJehgWGv-D4RO6PWWm4X9xy2lQrlJrG2HXl3a0ql2Oc7RUqlrWklg_lS1cO3CLm_aKviMiHb2AjeG2Oell2-Wpw=w1005-h796-no?authuser=0)
