@@ -22,7 +22,5 @@ pip install numpy
 
 ## Resources:
 ```
-site with all kinds dataframe functions: https://pandas.pydata.org/pandas-docs/stable/reference/frame.html
-site with all gspread functions: https://gspread.readthedocs.io/en/latest/user-guide.html#
-
+Video on using the cuDNN and related CUDA libraries: https://www.youtube.com/watch?v=2TcnIzJ1RQs&feature=youtu.be
 ```
