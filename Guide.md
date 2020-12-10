@@ -1,8 +1,13 @@
 # **User Guide**
 
 # *Part 4.1*
-
-For sections 4.1 our team was able to implement a machine learning model to recognize 10 different imported color images using Keras. The images chosen came from the CIFAR-10 database, which contains 60,000 32x32 different captures. The first 3 test completed included VGG\_1 Block , VGG\_2 Block, and VGG\_3 Block . The time ranged from 15-35 minutes for each run. Moreover other test were completed for VGG3 and the main models for predicition and evaluation ar shown below. ALL .py &amp; HTML files located in &quot;Option\_4\_Num\_1&quot; folder for each test.
+- For section 4.1 our team was able to implement a machine learning model to recognize 10 different imported color images using Keras
+- The images chosen came from the CIFAR-10 database
+  - contains 60,000 32x32 different captures
+- The first 3 tests completed included VGG\_1 Block , VGG\_2 Block, and VGG\_3 Block
+- The time ranged from 15-35 minutes for each run
+- Moreover, other tests were completed for VGG3 and the main models for predicition and evaluation ar shown below
+- ALL .py & HTML files are located in the "Option\_4\_Num\_1&quot" folder for each test
 
 1. Final\_Model\_Evaluation
 2. Final\_Model\_Predict
@@ -82,13 +87,22 @@ In [**2**]:
 ![](RackMultipart20201210-4-b5mg95_html_d8f458ef325a479e.png)
 
 # *Part 4.2 & 4.3*
+- For the following section our team was able to successfully resize 20 chosen images from each of the following categories: 
+  - Airplane, Automobile, Bird, Cat, Dog, Deer , Horse, Frog, Ship, Frog, and Truck
+- The pictures were found using google and 2 pictures were selected for each category
+- The original 32x32 images were re-sized to a 32x32x3 pixel format and saved into the "Option\_4\_Num\_2\_3\_4" folder
+  - In other words, the images were made smaller, while also maintaining color
+- To run the coda a .py file is provided in the "Option\_4\_Num\_2\_3\_4" folder that is labeled "Option\_4\_Num\_2.py"
+- As shown below our team re-sized a .png image of a horse. The left image is the original and the right is the re-sized version.
 
-For the following sectionour team was able to successfully resize 20 chosen images from each of the following categories: Airplane, Automobile, Bird, Cat, Dog, Deer , Horse, Frog, Ship, Frog, and Truck. The pictures were found using google and 2 pictures were selected for each category. The original 32x32 images were re-sized to a 32x32x3 pixel format and saved into &quot;Option\_4\_Num\_2\_3\_4&quot; folder. In other words, the images were made smaller, while also maintaining color. To run the coda a .py file is provided in &quot;Option\_4\_Num\_2\_3\_4&quot; folder that is labeled &quot;Option\_4\_Num\_2.py&quot;. As shown below our team re-sized a .png image of a horse. The left image is the original and the right is the re-sized version.
-
-![](RackMultipart20201210-4-b5mg95_html_6407f926b49e25f6.png) ![](RackMultipart20201210-4-b5mg95_html_1e2c846ff3b3b342.png)
+![alt text](RackMultipart20201210-4-b5mg95_html_6407f926b49e25f6.png) ![alt text](RackMultipart20201210-4-b5mg95_html_1e2c846ff3b3b342.png)
 
 # *Part 4.4*
-
-For the last section our team then proceed to use the 23x23x3 images from the previous task to check the accuracy of the original program created in section 1. The code was created to first import all the images into the database then procced to ask the user, which image it would like to select. After the user selected an image the program would predict the category of the image and the probability of the predicted category being true. It is important to note that side profiles images and pictures of cats, dogs, &amp; deers usually resulted in wrong predictions. To obtain the code navigate to the &quot;Option\_4\_Num\_2\_3\_4&quot; folder and selected the file labeled &quot;Option\_4\_Num\_3\_4.py&quot;. Furthermore, as shown below our program was able to successfully run with a 100% prediction..
+- For the last section our team then proceed to use the 23x23x3 images from the previous task to check the accuracy of the original program created in section 1
+  - The code was created to first import all the images into the database then procced to ask the user, which image it would like to select
+- After the user selected an image the program would predict the category of the image and the probability of the predicted category being true
+- It is important to note that side profiles images and pictures of cats, dogs, &amp; deers usually resulted in wrong predictions
+- To obtain the code navigate to the "Option\_4\_Num\_2\_3\_4" folder and selected the file labeled "Option\_4\_Num\_3\_4.py"
+- Furthermore, as shown below our program was able to successfully run with a 100% prediction
 
 ![](RackMultipart20201210-4-b5mg95_html_f48e51f8b0724439.png)
