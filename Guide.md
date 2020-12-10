@@ -97,4 +97,3 @@ Time Elapsed: 2.464463233947754
 - After the user selected an image the program would predict the category of the image and the probability of the predicted category being true
 - It is important to note that side profiles images and pictures of cats, dogs, &amp; deers usually resulted in wrong predictions
 - To obtain the code navigate to the "Option\_4\_Num\_2\_3\_4" folder and selected the file labeled "Option\_4\_Num\_3\_4.py"
-- Furthermore, as shown below our program was able to successfully run with a 100% prediction
