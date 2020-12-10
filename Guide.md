@@ -83,7 +83,7 @@ Image Under CIFAR-10 Class:
 Time Elapsed: 2.464463233947754
 ```
 In [**2**]:
-![alt text](https://github.com/[sabkarim]/[EE104_Super_Project_Amaton_Charles_Karim]/blob/[Option_4_Num_2_3_4]/Deer_2_database_processed.png?raw=true)
+![processed deer](../Option_4_Num_2_3_4/Deer_1_database_processed.png)
 
 ![alt text](RackMultipart20201210-4-b5mg95_html_d8f458ef325a479e.png)
 
