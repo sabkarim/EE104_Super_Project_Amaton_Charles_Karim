@@ -82,10 +82,6 @@ Image Under CIFAR-10 Class:
 
 Time Elapsed: 2.464463233947754
 ```
-In [**2**]:
-![processed deer](../Option_4_Num_2_3_4/Deer_1_database_processed.png)
-
-![alt text](RackMultipart20201210-4-b5mg95_html_d8f458ef325a479e.png)
 
 # *Part 4.2 & 4.3*
 - For the following section our team was able to successfully resize 20 chosen images from each of the following categories: 
@@ -94,9 +90,6 @@ In [**2**]:
 - The original 32x32 images were re-sized to a 32x32x3 pixel format and saved into the "Option\_4\_Num\_2\_3\_4" folder
   - In other words, the images were made smaller, while also maintaining color
 - To run the coda a .py file is provided in the "Option\_4\_Num\_2\_3\_4" folder that is labeled "Option\_4\_Num\_2.py"
-- As shown below our team re-sized a .png image of a horse. The left image is the original and the right is the re-sized version.
-
-![alt text](RackMultipart20201210-4-b5mg95_html_6407f926b49e25f6.png) ![alt text](RackMultipart20201210-4-b5mg95_html_1e2c846ff3b3b342.png)
 
 # *Part 4.4*
 - For the last section our team then proceed to use the 23x23x3 images from the previous task to check the accuracy of the original program created in section 1
@@ -105,5 +98,3 @@ In [**2**]:
 - It is important to note that side profiles images and pictures of cats, dogs, &amp; deers usually resulted in wrong predictions
 - To obtain the code navigate to the "Option\_4\_Num\_2\_3\_4" folder and selected the file labeled "Option\_4\_Num\_3\_4.py"
 - Furthermore, as shown below our program was able to successfully run with a 100% prediction
-
-![](RackMultipart20201210-4-b5mg95_html_f48e51f8b0724439.png)
