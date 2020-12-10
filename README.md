@@ -12,7 +12,7 @@ pip install Matplotlib
 pip install numpy
 ```
 
-## Remember to restart Spyder once installation is complete:
+### Remember to restart Spyder once installation is complete:
 
 ## Instructions
 
