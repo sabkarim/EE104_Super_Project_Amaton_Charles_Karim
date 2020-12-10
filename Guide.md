@@ -83,8 +83,9 @@ Image Under CIFAR-10 Class:
 Time Elapsed: 2.464463233947754
 ```
 In [**2**]:
+![alt text](https://github.com/[sabkarim]/[EE104_Super_Project_Amaton_Charles_Karim]/blob/[Option_4_Num_2_3_4]/Deer_2_database_processed.png?raw=true)
 
-![](RackMultipart20201210-4-b5mg95_html_d8f458ef325a479e.png)
+![alt text](RackMultipart20201210-4-b5mg95_html_d8f458ef325a479e.png)
 
 # *Part 4.2 & 4.3*
 - For the following section our team was able to successfully resize 20 chosen images from each of the following categories: 
