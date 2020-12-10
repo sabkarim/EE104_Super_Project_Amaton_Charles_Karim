@@ -22,5 +22,5 @@ pip install numpy
 
 ## Resources:
 ```
-[Guide Page](Video on using the cuDNN and related CUDA libraries](https://www.youtube.com/watch?v=2TcnIzJ1RQs&feature=youtu.be)
+**Video on using the cuDNN and related CUDA libraries:** https://www.youtube.com/watch?v=2TcnIzJ1RQs&feature=youtu.be)
 ```
