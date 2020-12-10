@@ -22,7 +22,7 @@
 
 An example of the prediction method is shown below using &quot;Final\_Model\_Predict&quot; file.
 
-```
+```HTML
 Python 3.8.5 (default, Sep 3 2020, 21:29:08) [MSC v.1916 64 bit (AMD64)]
 
 Type &quot;copyright&quot;, &quot;credits&quot; or &quot;license&quot; for more information.
