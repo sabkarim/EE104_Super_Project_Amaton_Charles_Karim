@@ -7,6 +7,7 @@
 - The first 3 tests completed included VGG\_1 Block , VGG\_2 Block, and VGG\_3 Block
 - The time ranged from 15-35 minutes for each run
 - Moreover, other tests were completed for VGG3 and the main models for predicition and evaluation ar shown below
+- The main models for predicition and evaluation are shown below
 - ALL .py & HTML files are located in the "Option\_4\_Num\_1&quot" folder for each test
 
 1. Final\_Model\_Evaluation
@@ -94,6 +95,12 @@ In [2]:
 - The original 32x32 images were re-sized to a 32x32x3 pixel format and saved into the "Option\_4\_Num\_2\_3\_4" folder
   - In other words, the images were made smaller, while also maintaining color
 - To run the coda a .py file is provided in the "Option\_4\_Num\_2\_3\_4" folder that is labeled "Option\_4\_Num\_2.py"
+- As shown below our team re-sized a .png image of a horse
+  - The top image is the original and the bottom is the re-sized version
+  
+![ScreenShot](https://github.com/sabkarim/EE104_Super_Project_Amaton_Charles_Karim/blob/main/Option_4_Num_2_3_4/Horse_1.PNG)
+
+![ScreenShot](https://github.com/sabkarim/EE104_Super_Project_Amaton_Charles_Karim/blob/main/Option_4_Num_2_3_4/Horse_1_database_processed.png)
 
 # *Part 4.4*
 - For the last section our team then proceed to use the 23x23x3 images from the previous task to check the accuracy of the original program created in section 1
