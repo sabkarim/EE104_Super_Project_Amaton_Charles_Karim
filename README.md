@@ -1,7 +1,7 @@
 # **EE104 Project 4, Option 4 - Let's Go Color & Beyond Digits!**
 # *Group Members: Sebastian Charles, Sabeeq Karim, David Amaton*
 
-[Link to Repository] (https://github.com/sabkarim/EE104_Super_Project_Amaton_Charles_Karim)
+[Link to Repository](https://github.com/sabkarim/EE104_Super_Project_Amaton_Charles_Karim)
 
 ### The following programs were ran u*sing Python version 3.5
 ## Please COPY AND PASTE into anaconda prompt the following:
