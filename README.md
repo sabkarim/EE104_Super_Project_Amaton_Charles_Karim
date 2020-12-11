@@ -1,4 +1,4 @@
-[# **EE104 Project 4, Option 4 - Let's Go Color & Beyond Digits!**](https://github.com/sabkarim/EE104_Super_Project_Amaton_Charles_Karim#ee104-project-4-option-4---lets-go-color--beyond-digits)
+[# **EE104 Project 4, Option 4 - Let's Go Color & Beyond Digits!**] (https://github.com/sabkarim/EE104_Super_Project_Amaton_Charles_Karim#ee104-project-4-option-4---lets-go-color--beyond-digits)
 
 # *Group Members: Sebastian Charles, Sabeeq Karim, David Amaton*
 
